@@ -1,4 +1,4 @@
-# minecraft-israel
+# Minecraft Israel
 The United Minecraft Project For The Israeli Gaming Community
 
 ## Our Goal
